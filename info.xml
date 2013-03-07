@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="com.osseed.sms.mysmsmantra" type="module">
+  <file>mysmsmantra</file>
+  <name>mysmsmantra</name>
+  <description>Support for SMSMantra Gateway</description>
+  <license></license>
+  <maintainer>
+    <author>OSSeed</author>
+    <email>hello@osseed.com</email>
+  </maintainer>
+  <releaseDate>2013-03-07</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>Support for SMSMantra Gateway</comments>
+  <civix>
+    <namespace>CRM/Mysmsmantra</namespace>
+  </civix>
+</extension>
